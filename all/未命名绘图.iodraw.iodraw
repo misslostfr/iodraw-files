@@ -40,8 +40,8 @@
         <mxCell id="s76OfDihPrx9jfDWl9Rk-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="200" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="s76OfDihPrx9jfDWl9Rk-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="s76OfDihPrx9jfDWl9Rk-7" value="min-genes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="175" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
