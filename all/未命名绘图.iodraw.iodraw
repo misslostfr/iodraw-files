@@ -118,6 +118,9 @@
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-48" value="高级分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="350" width="50" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-49" value="基础" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="170" width="50" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
