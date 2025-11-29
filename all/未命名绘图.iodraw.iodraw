@@ -80,7 +80,7 @@
           <mxGeometry x="460" y="200" width="20" height="510" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="670" y="290" width="20" height="350" as="geometry" />
+          <mxGeometry x="670" y="200" width="20" height="480" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-35" value="检索" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="180" width="80" height="40" as="geometry" />
