@@ -93,8 +93,8 @@
         <mxCell id="s76OfDihPrx9jfDWl9Rk-22" value="resolution" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="448.75" width="80" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="s76OfDihPrx9jfDWl9Rk-28" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="s76OfDihPrx9jfDWl9Rk-28" value="Optuna" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
