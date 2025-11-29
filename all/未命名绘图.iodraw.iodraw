@@ -43,9 +43,6 @@
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-16" value="证据强度评估" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="564.5" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-17" value="数据处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
