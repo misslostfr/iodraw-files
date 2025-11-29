@@ -86,7 +86,7 @@
           <mxGeometry x="700" y="170" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-37" value="Kegg富集" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="350" width="80" height="40" as="geometry" />
+          <mxGeometry x="700" y="350" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-38" value="丰度分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="290" width="80" height="40" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="810" y="350" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-49" value="基础" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="170" width="50" height="150" as="geometry" />
+          <mxGeometry x="810" y="170" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
