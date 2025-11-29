@@ -94,7 +94,7 @@
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-39" value="相关性探索" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="450" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-40" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-40" value="差异分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="510" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-41" value="检索" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
