@@ -15,7 +15,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dt4gmpLSAUAh0_QRQkje-2" value="处理过的基因表达数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dt4gmpLSAUAh0_QRQkje-2" value="处理过的基因表达数据" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="115" y="180" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dt4gmpLSAUAh0_QRQkje-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
