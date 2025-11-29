@@ -128,12 +128,15 @@
           <mxGeometry x="160" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s76OfDihPrx9jfDWl9Rk-43" value="Optuna" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="280" width="90" height="60" as="geometry" />
+          <mxGeometry x="570" y="285.5" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s76OfDihPrx9jfDWl9Rk-44" value="CMA-ES" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="530" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s76OfDihPrx9jfDWl9Rk-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.491;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s76OfDihPrx9jfDWl9Rk-44" target="s76OfDihPrx9jfDWl9Rk-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s76OfDihPrx9jfDWl9Rk-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s76OfDihPrx9jfDWl9Rk-43" target="s76OfDihPrx9jfDWl9Rk-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
