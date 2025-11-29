@@ -52,6 +52,9 @@
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-22" value="名称实体识别" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="283" y="720" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-23" value="证据强度评估" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="426" y="580" width="167" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
