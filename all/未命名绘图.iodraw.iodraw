@@ -34,6 +34,9 @@
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-13" value="质量过滤" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="390" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-14" value="LLM文献智能分析模块" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="450" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
