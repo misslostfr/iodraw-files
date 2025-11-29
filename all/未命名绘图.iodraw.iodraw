@@ -55,8 +55,8 @@
         <mxCell id="s76OfDihPrx9jfDWl9Rk-12" value="target sum" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="235" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s76OfDihPrx9jfDWl9Rk-13" value="target sum" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="245" width="80" height="30" as="geometry" />
+        <mxCell id="s76OfDihPrx9jfDWl9Rk-13" value="n-top-genes" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="300" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
