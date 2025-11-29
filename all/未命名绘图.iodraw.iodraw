@@ -1,6 +1,6 @@
 <mxfile host="" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="PfFPOw-1oC1jzSjkYLNU">
-    <mxGraphModel dx="906" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="730" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,9 @@
         <mxCell id="dt4gmpLSAUAh0_QRQkje-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="20" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="dt4gmpLSAUAh0_QRQkje-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dt4gmpLSAUAh0_QRQkje-9" target="dt4gmpLSAUAh0_QRQkje-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dt4gmpLSAUAh0_QRQkje-9" value="基因互作模型" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
           <mxGeometry x="310" y="230" width="120" height="80" as="geometry" />
         </mxCell>
@@ -31,7 +34,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dt4gmpLSAUAh0_QRQkje-12" value="整个模型中相关基因的变化及通路变化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
