@@ -1,48 +1,26 @@
 <mxfile host="" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
-  <diagram name="第 1 页" id="zy1d2ucAHjUOlf2ffeb1">
-    <mxGraphModel dx="1051" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="第 1 页" id="C13z9Vl1fMO25CuXSGXB">
+    <mxGraphModel dx="1011" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kaZmc6h2c9MOd4y0tmAU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kaZmc6h2c9MOd4y0tmAU-1" target="kaZmc6h2c9MOd4y0tmAU-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-1" value="储存层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kaZmc6h2c9MOd4y0tmAU-1" value="Kegg&lt;div&gt;pathways-genes数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-2" value="数据处理模块" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kaZmc6h2c9MOd4y0tmAU-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kaZmc6h2c9MOd4y0tmAU-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="155" y="460" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-3" value="AI核心模块" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kaZmc6h2c9MOd4y0tmAU-2" value="network构建" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-4" value="数据源层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kaZmc6h2c9MOd4y0tmAU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kaZmc6h2c9MOd4y0tmAU-3" target="kaZmc6h2c9MOd4y0tmAU-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-5" value="数据采集" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kaZmc6h2c9MOd4y0tmAU-3" value="基因互作标注&lt;div&gt;ligand- receptor-transduction-TFs分层&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="280" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kaZmc6h2c9MOd4y0tmAU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kaZmc6h2c9MOd4y0tmAU-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="155" y="520" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kaZmc6h2c9MOd4y0tmAU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kaZmc6h2c9MOd4y0tmAU-7" target="kaZmc6h2c9MOd4y0tmAU-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kaZmc6h2c9MOd4y0tmAU-7" value="DEG" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="298" y="285" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kaZmc6h2c9MOd4y0tmAU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kaZmc6h2c9MOd4y0tmAU-8" target="kaZmc6h2c9MOd4y0tmAU-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kaZmc6h2c9MOd4y0tmAU-8" value="TabPFN核心疾病相关基因筛选" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="298" y="375" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kaZmc6h2c9MOd4y0tmAU-19" value="PG-cMAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="95" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
