@@ -33,7 +33,7 @@
             <mxPoint x="220" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s76OfDihPrx9jfDWl9Rk-0" value="聚类与umap构建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="s76OfDihPrx9jfDWl9Rk-0" value="聚类与去批次" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="440" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s76OfDihPrx9jfDWl9Rk-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s76OfDihPrx9jfDWl9Rk-1" target="WIyWlLk6GJQsqaUBKTNV-7">
