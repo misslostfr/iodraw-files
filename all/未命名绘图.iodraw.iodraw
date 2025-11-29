@@ -1,6 +1,6 @@
 <mxfile host="" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="C13z9Vl1fMO25CuXSGXB">
-    <mxGraphModel dx="876" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1460" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="160" y="350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-3" value="AI核心模块" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="585" width="100" height="40" as="geometry" />
+          <mxGeometry x="160" y="576" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-4" value="数据源层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="180" width="110" height="40" as="geometry" />
@@ -35,25 +35,25 @@
           <mxGeometry x="280" y="390" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-14" value="LLM文献智能分析模块" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="416" y="450" width="167" height="40" as="geometry" />
+          <mxGeometry x="416" y="441" width="167" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-15" value="上下文实体识别" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="416" y="510" width="167" height="40" as="geometry" />
+          <mxGeometry x="416" y="501" width="167" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-16" value="证据强度评估" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="416" y="570" width="167" height="40" as="geometry" />
+          <mxGeometry x="416" y="561" width="167" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-18" value="质量提取" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="283" y="510" width="110" height="40" as="geometry" />
+          <mxGeometry x="283" y="501" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-20" value="名称实体识别" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="283" y="670" width="110" height="40" as="geometry" />
+          <mxGeometry x="283" y="661" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-23" value="微生物名-基因-代谢物-pathways-疾病类型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414.5" y="640" width="167" height="40" as="geometry" />
+          <mxGeometry x="414.5" y="631" width="167" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-24" value="关系抽取" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="700" width="167" height="40" as="geometry" />
+          <mxGeometry x="414" y="691" width="167" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
