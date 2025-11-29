@@ -24,7 +24,7 @@
           <mxGeometry x="115" y="180" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dt4gmpLSAUAh0_QRQkje-6" value="基因互作&lt;span style=&quot;background-color: initial;&quot;&gt;模型&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
