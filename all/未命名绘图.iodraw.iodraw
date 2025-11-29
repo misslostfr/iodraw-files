@@ -46,6 +46,9 @@
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-18" value="质量提取" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="283" y="500" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-19" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
