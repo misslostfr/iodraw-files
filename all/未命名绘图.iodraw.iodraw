@@ -40,8 +40,8 @@
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-15" value="上下文实体识别" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="500" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-16" value="上下文实体识别" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="510" width="110" height="40" as="geometry" />
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-16" value="证据强度评估" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="550" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
