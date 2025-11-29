@@ -1,6 +1,6 @@
 <mxfile host="" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="zy1d2ucAHjUOlf2ffeb1">
-    <mxGraphModel dx="973" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="641" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,16 +20,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kaZmc6h2c9MOd4y0tmAU-7" value="DEG" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="290" width="100" height="50" as="geometry" />
+          <mxGeometry x="300" y="380" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kaZmc6h2c9MOd4y0tmAU-8" value="核心疾病相关基因筛选" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="380" width="100" height="50" as="geometry" />
+          <mxGeometry x="300" y="470" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kaZmc6h2c9MOd4y0tmAU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kaZmc6h2c9MOd4y0tmAU-9" target="kaZmc6h2c9MOd4y0tmAU-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kaZmc6h2c9MOd4y0tmAU-9" value="TabFPN" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="380" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
