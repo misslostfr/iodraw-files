@@ -19,7 +19,7 @@
         <mxCell id="kaZmc6h2c9MOd4y0tmAU-7" value="DEG" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="195" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kaZmc6h2c9MOd4y0tmAU-8" value="DEG" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kaZmc6h2c9MOd4y0tmAU-8" value="TabFPN核心疾病相关基因筛选" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="285" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
