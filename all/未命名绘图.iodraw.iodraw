@@ -80,46 +80,46 @@
           <mxGeometry x="460" y="200" width="20" height="510" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="670" y="200" width="20" height="480" as="geometry" />
+          <mxGeometry x="670" y="200" width="20" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-35" value="检索" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="180" width="80" height="40" as="geometry" />
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-35" value="检索" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="700" y="187" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-37" value="Kegg富集" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="700" y="367" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-38" value="丰度分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="300" width="80" height="40" as="geometry" />
+          <mxGeometry x="700" y="307" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-39" value="相关性探索" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="240" width="80" height="40" as="geometry" />
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-39" value="相关性探索" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="700" y="247" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-40" value="差异分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="420" width="80" height="40" as="geometry" />
+          <mxGeometry x="700" y="427" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-41" value="检索" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="180" width="80" height="40" as="geometry" />
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-41" value="检索" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="700" y="187" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-42" value="网络分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="700" y="487" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-43" value="聚类" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="541" width="80" height="40" as="geometry" />
+          <mxGeometry x="700" y="548" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-45" value="机器学习层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="541" width="50" height="159" as="geometry" />
+          <mxGeometry x="810" y="548" width="50" height="159" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-46" value="风险预测" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="601" width="80" height="40" as="geometry" />
+          <mxGeometry x="700" y="608" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-47" value="疾病分类" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="661" width="80" height="40" as="geometry" />
+          <mxGeometry x="700" y="668" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-48" value="高级分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="300" width="50" height="220" as="geometry" />
+          <mxGeometry x="810" y="307" width="50" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-49" value="基础" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="180" width="50" height="100" as="geometry" />
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-49" value="基础" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="810" y="187" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
