@@ -37,6 +37,9 @@
         <mxCell id="s76OfDihPrx9jfDWl9Rk-5" value="HVGs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="280" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="s76OfDihPrx9jfDWl9Rk-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="330" width="20" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
