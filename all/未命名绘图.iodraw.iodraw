@@ -13,6 +13,9 @@
         <mxCell id="kaZmc6h2c9MOd4y0tmAU-3" value="基因互作标注&lt;div&gt;ligand- receptor-transduction-TFs分层&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="280" width="210" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kaZmc6h2c9MOd4y0tmAU-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
