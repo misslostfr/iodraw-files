@@ -32,13 +32,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kaZmc6h2c9MOd4y0tmAU-7" value="DEG" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="190" width="100" height="50" as="geometry" />
+          <mxGeometry x="298" y="285" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kaZmc6h2c9MOd4y0tmAU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kaZmc6h2c9MOd4y0tmAU-8" target="kaZmc6h2c9MOd4y0tmAU-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kaZmc6h2c9MOd4y0tmAU-8" value="TabPFN核心疾病相关基因筛选" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="330" y="280" width="100" height="50" as="geometry" />
+          <mxGeometry x="298" y="375" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kaZmc6h2c9MOd4y0tmAU-19" value="PG-cMAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="95" y="550" width="120" height="60" as="geometry" />
