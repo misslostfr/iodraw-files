@@ -13,6 +13,9 @@
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-3" value="AI核心模块" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="576" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dx-ChrEZM4yMIVZxlk2w-4" target="Dx-ChrEZM4yMIVZxlk2w-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-4" value="数据源层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="180" width="110" height="40" as="geometry" />
         </mxCell>
@@ -65,7 +68,7 @@
           <mxGeometry x="260" y="520" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="393" y="450" width="20" height="151" as="geometry" />
+          <mxGeometry x="393" y="450" width="20" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
