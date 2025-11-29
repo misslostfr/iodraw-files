@@ -22,11 +22,6 @@
         <mxCell id="kaZmc6h2c9MOd4y0tmAU-3" value="基因互作标注&lt;div&gt;ligand- receptor-transduction-TFs分层&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="280" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kaZmc6h2c9MOd4y0tmAU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kaZmc6h2c9MOd4y0tmAU-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="155" y="580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kaZmc6h2c9MOd4y0tmAU-6" value="KG-cMAP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="460" width="120" height="60" as="geometry" />
         </mxCell>
@@ -43,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kaZmc6h2c9MOd4y0tmAU-19" value="PG-cMAP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="95" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
