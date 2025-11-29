@@ -103,7 +103,7 @@
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-42" value="网络分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="570" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-43" value="检索" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Dx-ChrEZM4yMIVZxlk2w-43" value="聚类" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="631" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
