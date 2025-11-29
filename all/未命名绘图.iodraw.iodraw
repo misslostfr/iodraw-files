@@ -38,10 +38,10 @@
           <mxGeometry x="413" y="420" width="167" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-15" value="上下文实体识别" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="413" y="480" width="110" height="40" as="geometry" />
+          <mxGeometry x="413" y="480" width="167" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-16" value="证据强度评估" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="564.5" width="110" height="40" as="geometry" />
+          <mxGeometry x="413" y="540" width="167" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-18" value="质量提取" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="470" width="110" height="40" as="geometry" />
