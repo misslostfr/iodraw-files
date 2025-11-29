@@ -43,7 +43,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kaZmc6h2c9MOd4y0tmAU-19" value="PG-cMAP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
