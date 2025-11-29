@@ -56,7 +56,7 @@
           <mxGeometry x="414.5" y="640" width="167" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dx-ChrEZM4yMIVZxlk2w-24" value="关系抽取" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="413" y="700" width="167" height="40" as="geometry" />
+          <mxGeometry x="414" y="700" width="167" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
