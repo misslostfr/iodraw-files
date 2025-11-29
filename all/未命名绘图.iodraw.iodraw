@@ -30,7 +30,7 @@
         <mxCell id="dt4gmpLSAUAh0_QRQkje-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.505;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dt4gmpLSAUAh0_QRQkje-10" target="dt4gmpLSAUAh0_QRQkje-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dt4gmpLSAUAh0_QRQkje-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dt4gmpLSAUAh0_QRQkje-12" value="整个模型中相关基因的变化及通路变化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
